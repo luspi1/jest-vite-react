@@ -1,5 +1,5 @@
 import './App.css'
-import { HelloWorld } from './components/hello-world.tsx'
+import { HelloWorld } from './components/hello-world/hello-world.tsx'
 
 function App() {
 
