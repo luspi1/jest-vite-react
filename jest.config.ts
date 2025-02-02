@@ -12,5 +12,5 @@ export default {
 		'^.+\\.tsx?$': ['ts-jest', {tsconfig: 'tsconfig.app.json'}],
 	},
 	moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
-	verbose: true
+	verbose: true,
 };
